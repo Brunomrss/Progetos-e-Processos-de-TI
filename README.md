@@ -18,5 +18,7 @@ Tabela de conteúdos
 
 
 ### Autores
-- [Bruno Martins](https://github.com/Brunomrss)
-- [Vinicius Câmara](https://github.com/VinicinCamara)
+- [Bruno Martins]
+- [Vinicius Câmara]
+- [Emannuel Victor]
+- [Henrique Magalhães]
