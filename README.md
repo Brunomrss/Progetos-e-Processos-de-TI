@@ -1,8 +1,8 @@
 ## Projeto Migração Servidor de Arquivos para Nuvem
 
-Tabela de conteúdos
-=================
-<!--ts-->
+###Tabela de conteúdos
+
+
    * [Kick off](https://docs.google.com/document/d/1XyfiEGuq1eScKdjHQqqRfQHgWpCOzxIfQK5rOF755i4/edit)
    * [Carta do Projeto](https://docs.google.com/document/d/1i-E8OjDHSHnJqGq98xS5UsToceb9i4B8o52pUv8FnLo/edit)
    * [Termo de Abertura](https://docs.google.com/document/d/1FzN6nGn74TfUJAw0x7wcDHgcD-cNiS-y/edit)
@@ -14,7 +14,7 @@ Tabela de conteúdos
    * [Custo](https://docs.google.com/spreadsheets/d/1TtZAI8Wjy2TBt4NkY-LxzweHflqNxzKjgzDmt2wGj1Y/edit#gid=0)
    * [Riscos](https://docs.google.com/spreadsheets/d/1ab-VZCcvHYVB7v3f_hV8ncHGdNgl1w-TmykNkTl2WDM/edit#gid=0)
    * [Termo de Encerramento](https://docs.google.com/document/d/1UMbmuZgSM15YkWL5xxHVLcQZuP3wUHcbe10ZS4AlGik/edit)
-<!--te-->
+
 
 
 ### Autores
