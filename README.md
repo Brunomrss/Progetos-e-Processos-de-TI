@@ -20,5 +20,3 @@
 ### Autores
 - [Bruno Martins]
 - [Vinicius Câmara]
-- [Emannuel Victor]
-- [Henrique Magalhães]
